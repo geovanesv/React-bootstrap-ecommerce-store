@@ -1,7 +1,7 @@
 # React-Bootstrap-Ecommerce-Tech-Store
 Este foi um aplicativo de carrinho de comércio eletrônico criado usando React e Bootstrap, está em fase de desenvolvimento estou implantado o back-end no google firebase
 ## Veja ao vivo: ##
-##  ##
+# https://react-bootstrap-ecommerce-tech-store.netlify.app #
 
 
 
@@ -17,5 +17,5 @@ Este foi um aplicativo de carrinho de comércio eletrônico criado usando React 
 ## Os itens podem ser adicionados ao carrinho e o carrinho armazenado no armazenamento local, portanto, mesmo que você atualize a página, os itens permanecerão no carrinho. O preço total de todos os itens também será exibido, bem como uma opção para remover os itens. ##
 ![image](https://user-images.githubusercontent.com/49567926/201374567-9aa86892-c1fe-431c-bec0-72fb9bb967e1.png)
 
-### No geral esse projeto foi está sendo muito proveitoso e estou aperfeiçoando meus conhecimentos técnicos em ReactJS ###
+### No geral esse projeto está sendo muito proveitoso, estou aperfeiçoando meus conhecimentos técnicos em ReactJS ###
 
