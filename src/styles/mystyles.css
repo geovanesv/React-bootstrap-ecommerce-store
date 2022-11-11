@@ -1,0 +1,9 @@
+.landing-wrapper {
+    display: table;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3)), url('/public/img/Banner-bg2.png');
+    background-position: center top;
+    height: 100%;
+    color: white;
+    border-radius: 10px;
+  }

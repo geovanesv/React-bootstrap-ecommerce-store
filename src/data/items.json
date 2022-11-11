@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Câmera Digital Canon",
+        "price": 84.99,
+        "imgUrl": "/img/camera_rsrs.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Câmera ip",
+        "price": 89.99,
+        "imgUrl": "/img/camera_ip.png"
+    },
+    {
+        "id": 3,
+        "name": "Apple iPhone 13 128GB Câmera Dupla",
+        "price": 5999.00,
+        "imgUrl": "/img/iphone.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Relogio Esportivo",
+        "price": 182.84,
+        "imgUrl": "/img/relogio.png"
+    },
+    {
+        "id": 5,
+        "name": "Fone de ouvido JBL",
+        "price": 127.45,
+        "imgUrl": "/img/fone_de_ouvido.jpg"
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Carregador Portátil",
+        "price": 129.00,
+        "imgUrl": "/img/carregador.png"
+    }
+]
