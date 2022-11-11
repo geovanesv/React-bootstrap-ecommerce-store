@@ -10,7 +10,7 @@ Este foi um aplicativo de carrinho de comércio eletrônico criado usando React 
 ![image](https://user-images.githubusercontent.com/49567926/201374565-10219e16-6c32-4da2-a345-36ef9b092ca4.png)
 
 ## Loja ##
-## A Loja possui itens puxados de um arquivo json simulando o banco de dados, que posteriormente será o farebase. ##
+## A Loja possui itens puxados de um arquivo json simulando o banco de dados, que posteriormente será o firebase. ##
 ![image](https://user-images.githubusercontent.com/49567926/201374564-2a1c1211-309c-4a7f-b461-d9cac2a9795a.png)
 
 ## Carrinho de compras ##
